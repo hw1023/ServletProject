@@ -1,4 +1,4 @@
-# MyReminder Application
+# MyReminder WebProject
 MyReminder application developed using JSP, Servlet, JDBC and MySQL Database.
 
 ## Following features
