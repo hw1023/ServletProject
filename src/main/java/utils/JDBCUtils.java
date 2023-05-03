@@ -10,7 +10,7 @@ public class JDBCUtils {
 
 	private static String jdbcURL = "jdbc:mysql://localhost:3306/mydatabase?serverTimezone=UTC";
 	private static String jdbcUsername = "root";
-	private static String jdbcPassword = "Wang1023*";
+	private static String jdbcPassword = "root";
 
 	public static Connection getConnection() {
 		Connection connection = null;
